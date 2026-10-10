@@ -12,19 +12,19 @@ Developed as part of an AI hackathon at **IIT Jammu**, where the team received a
 
 The landing page introduces Blueprint Cop and provides access to the blueprint review experience.
 
-![Blueprint Cop homepage](screenshots/01-homepage.png)
+![Blueprint Cop Homepage](screenshot/01-homepage.png)
 
 ### 2. Compliance Dashboard
 
 A visual preview of the blueprint analysis experience and inspection summary.
 
-![Blueprint Cop compliance dashboard](screenshots/02-compliance-dashboard.png)
+![Compliance Dashboard](screenshot/02-compliance-dashboard.png)
 
 ### 3. Inspection Results
 
 The results interface presents potential issues and inspection checks, including severity and recommendations where available.
 
-![Blueprint Cop inspection results](screenshots/03-inspection-results.png)
+![Inspection Results](screenshot/03-inspection-results.png)
 
 ## Key Features
 
